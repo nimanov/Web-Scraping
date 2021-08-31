@@ -1,1 +1,2 @@
-# Scraped car trade website by using Beautiful Soup library of Python
+# Web scarping
+In this project I scraped 'Turbo.az' website which is car trade site.
